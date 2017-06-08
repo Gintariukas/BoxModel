@@ -1,0 +1,17 @@
+p {
+    color: white;
+    text-align: center;
+    background-color: green;
+    border: 12px solid black;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+p.solid {
+    outline-style: solid;
+    outline-color: blue;
+    outline-width: 12px;
+}
+div {
+    width: 250px;
+    margin: auto;
+}
